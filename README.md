@@ -1,7 +1,7 @@
 # Decoding the SpaceX IPO — A Forensic Teardown of the S-1
 
 Companion repository to the *Alpha with AI* newsletter:
-**"Claude Code Read Elon Musk's 277-Page SpaceX Prospectus So I Didn't Have To."**
+**"Claude Code Read Elon Musk's 277-Page SpaceX Prospectus So I Didn't Have To: https://ai.shikshannivesh.com/p/claude-code-read-elon-musks-277-page"**
 
 This repo holds the verified, source-cited output behind every number in that edition. The newsletter tells the story. This repo is the proof. Every figure traces to an exact page in the SpaceX Form S-1 (filed May 20, 2026), or is clearly labeled as coming from outside the filing.
 
